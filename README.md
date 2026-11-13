@@ -1,16 +1,4 @@
-# SHARKWEB
-
-<p align="center">
-  <img src="assets/logo-white.png" width="110" alt="Logo de SharkWeb">
-</p>
-
-<h3 align="center">Construimos más allá de lo convencional.</h3>
-
-<p align="center">
-  DESARROLLO WEB A MEDIDA · ANIMACIONES · EXPERIENCIAS INTERACTIVAS
-</p>
-
----
+![SHARKWEB - Banner](assets/banner.png)
 
 ## Sobre nosotros
 
